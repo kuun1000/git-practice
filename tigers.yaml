@@ -16,4 +16,4 @@ members:
 - Stash
 
 fetch: this
-signed: yes!
+signed: yes!!
